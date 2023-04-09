@@ -1,5 +1,6 @@
-## This is an dashbord webapp
-In this the backend is operated by firebase. 
+## This is an dashbord webapp 
+i practice on firebase authentication and real time database
+
 
 # To operate it:
 Use your own firebase api key to operate it.
